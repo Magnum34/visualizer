@@ -1,6 +1,6 @@
 # Visualizer
-Fast Fourier Transform
-
+Fast Fourier Transform      
+![picture alt](http://portfolio.magnum34.pl/assets/images/DFT.png)
 ## DFT ( Discrete Fourier Transform)
 [Principle of operation](https://jackschaedler.github.io/circles-sines-signals/)
 ## FFT (Fast Fourier Transform)
@@ -19,3 +19,9 @@ Fast Fourier Transform
   ```
  python FFT_DFT.py
  ```
+ ## Launch
+  ```
+ python visualizer.py
+ ```
+## License
+MIT license. See the LICENSE file for more details.
