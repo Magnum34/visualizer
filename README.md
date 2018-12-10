@@ -1,6 +1,6 @@
 # Visualizer
 Fast Fourier Transform      
-![picture alt](http://portfolio.magnum34.pl/assets/images/DFT.png)
+![picture alt](https://magnum34.com/wp-content/uploads/2018/05/DFT.png)
 ## DFT ( Discrete Fourier Transform)
 [Principle of operation](https://jackschaedler.github.io/circles-sines-signals/)
 ## FFT (Fast Fourier Transform)
